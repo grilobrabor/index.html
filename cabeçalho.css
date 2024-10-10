@@ -1,0 +1,75 @@
+header{
+    width: 100%;
+    padding: 2;
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+
+    
+}
+#logo{
+font-size: small;
+padding-bottom: 1%;
+padding-top: 1%;
+padding-left: 6%;
+width: 20%;
+display: flex;
+}
+
+nav{
+width: 70%;
+}
+
+nav ul{
+    padding-right: 6%;
+    display: flex;
+    color: white;
+    list-style: none;
+    justify-content: flex-end;
+}
+
+nav ul li{
+margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#sixteen{
+color: white;
+}
+
+#clothing{
+color: red;
+
+}
